@@ -1,37 +1,139 @@
-## Welcome to GitHub Pages
+# Tavarence's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Favorite things about cs193
+- I like coding
+- You're cool teach
+- It's short
+- Prob one of my top classes rn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to my brain rn
 
-### Markdown
+### GETOUTOFMYHEAD
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+dont sue me plz
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Greetings loved ones
+Let's take a journey
+I know a place
+Where the grass is really greener
+Warm, wet n' wild
+There must be something in the water
+Sippin' gin and juice
+Laying underneath the palm trees
+(Undone)
+The boys
+Break their necks
+Try'na to creep a little sneak peek
+(At us)
+You could travel the world
+But nothing comes close
+To the golden coast
+Once you party with us
+You'll be falling in love
+Ooh oh ooh oh oh ooh
+California girls
+We're unforgettable
+Daisy dukes
+Bikinis on top
+Sun-kissed skin
+So hot
+We'll melt your popsicle
+Ooh oh ooh
+Ooh oh ooh
+California girls
+We're undeniable
+Fine, fresh, fierce
+We got it on lock
+West coast represent
+Now put your hands up
+Ooh oh ooh
+Ooh oh ooh
+Sex on the beach
+We don't mind sand in our stilettos
+We freak
+In my jeep
+Snoop doggy-dog on the stereo oh oh
+You could travel the world
+But nothing comes close
+To the golden coast
+Once you party with us
+You'll be falling in love
+Ooh oh ooh ooh oh ooh
+California girls
+We're unforgettable
+Daisy dukes
+Bikinis on top
+Sun-kissed skin
+So hot
+We'll melt your popsicle
+Ooh oh ooh
+Ooh oh ooh
+California girls
+We're undeniable
+Fine, fresh, fierce
+We got it on lock
+West coast represent
+Now put your hands up
+Ooh oh ooh
+Ooh oh ooh
+Toned, tan
+Fit and ready
+Turn it up 'cause its gettin' heavy
+Wild, wild west coast
+These are the girls I love the most
+I mean the ones
+I mean like she's the one
+Kiss her, touch her
+Squeeze her buns
+The girl's a freak
+She drive a jeep
+And live on the beach
+I'm okay
+I won't play
+I love the bay
+Just like I love L.A.
+Venice Beach
+And Palm Springs
+Summertime is everything
+Home boys
+Bangin' out
+All that ass
+Hanging out
+Bikinis, zucchinis, martinis
+No weenies
+Just a king
+And a queenie
+Katy my lady
+(Yeah)
+And looky here baby
+(Uh huh)
+I'm all up on ya
+'Cause you representing California (oh yeah)
+California girls
+We're unforgettable
+Daisy dukes
+Bikinis on top
+Sun-kissed skin
+So hot
+We'll melt your popsicle
+Ooh oh ooh
+Ooh oh ooh
+California girls
+We're undeniable
+Fine, fresh, fierce
+We got it on lock
+West coast represent (west coast, west coast)
+Now put your hands up
+Ooh oh ooh
+Ooh oh ooh
+California girls man
+(California)
+(California girls)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Thanks to a certain friend this song can't get out of my head.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+green678@purdue.edu
